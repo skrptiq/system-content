@@ -1,0 +1,110 @@
+[
+  {
+    "id": "technical-developers",
+    "name": "Technical Developers",
+    "description": "Software engineers, architects, and technical leads who value precision, examples, and practical implementation detail.",
+    "characteristics": {
+      "knowledge_level": "High technical literacy — comfortable with code, architecture patterns, and systems thinking",
+      "expectations": "Concrete examples, code snippets, specific tool recommendations, honest trade-off analysis",
+      "priorities": "Does it work? Is it correct? What are the edge cases?"
+    },
+    "communication": {
+      "formality": "3/10 — informal, direct, peer-to-peer",
+      "jargon_tolerance": "9/10 — domain terms expected, no need to define basics",
+      "detail_level": "High — show the implementation, not just the concept",
+      "evidence_preference": "Code examples, benchmarks, architecture diagrams, real-world incidents"
+    },
+    "resonates": "Specific technical depth, honest about limitations, 'here is what actually happened in production', code you can run",
+    "alienates": "Marketing speak, vague claims without evidence, oversimplification of complex topics, 'just use best practices'"
+  },
+  {
+    "id": "business-stakeholders",
+    "name": "Business Stakeholders",
+    "description": "Executives, managers, and decision-makers who value outcomes, ROI, and strategic implications.",
+    "characteristics": {
+      "knowledge_level": "Business-literate, variable technical depth — assume competence but not domain expertise",
+      "expectations": "Clear recommendations, quantified impact, risk assessment, timeline and resource implications",
+      "priorities": "What does this mean for the business? What's the cost of action vs inaction?"
+    },
+    "communication": {
+      "formality": "6/10 — professional but not stiff, confident tone",
+      "jargon_tolerance": "3/10 — translate technical concepts, use business language",
+      "detail_level": "Executive summary first, detail available on request",
+      "evidence_preference": "Metrics, case studies, competitive analysis, financial projections"
+    },
+    "resonates": "Clear bottom-line impact, actionable recommendations, competitive context, 'here is what I recommend and why'",
+    "alienates": "Technical jargon without context, excessive detail before the conclusion, hedging without commitment"
+  },
+  {
+    "id": "general-consumers",
+    "name": "General Audience",
+    "description": "Non-specialist readers who value clarity, relatability, and practical takeaways they can use immediately.",
+    "characteristics": {
+      "knowledge_level": "No assumed domain expertise — explain concepts from first principles",
+      "expectations": "Clear explanations, relatable examples, step-by-step guidance, visual aids",
+      "priorities": "Can I understand this? Can I do something with this? Is this relevant to me?"
+    },
+    "communication": {
+      "formality": "2/10 — conversational, friendly, approachable",
+      "jargon_tolerance": "1/10 — define every technical term, use analogies",
+      "detail_level": "Moderate — enough to understand, not enough to overwhelm",
+      "evidence_preference": "Stories, analogies, before/after comparisons, simple data visualisations"
+    },
+    "resonates": "Relatable examples from everyday life, clear 'so what' for each point, empathy for the reader's starting point",
+    "alienates": "Assumed knowledge, condescension, information overload, abstract theory without practical application"
+  },
+  {
+    "id": "academic-research",
+    "name": "Academic & Research",
+    "description": "Scholars, researchers, and graduate students who value rigour, proper attribution, and methodological transparency.",
+    "characteristics": {
+      "knowledge_level": "High domain expertise — familiar with the literature, methods, and debates in their field",
+      "expectations": "Proper citations, methodological detail, acknowledgement of limitations, contribution to the field",
+      "priorities": "Is this rigorous? Is the evidence sufficient? How does this advance the conversation?"
+    },
+    "communication": {
+      "formality": "8/10 — formal academic register, precise language, hedged claims",
+      "jargon_tolerance": "8/10 — field-specific terminology expected and valued",
+      "detail_level": "Very high — methodology, data, analysis, limitations all required",
+      "evidence_preference": "Peer-reviewed sources, statistical analysis, systematic methodology, replicable results"
+    },
+    "resonates": "Thorough literature engagement, transparent methodology, honest about limitations, contribution clearly stated",
+    "alienates": "Unsupported claims, missing citations, oversimplification of nuanced debates, prescriptive conclusions without evidence"
+  },
+  {
+    "id": "creative-professionals",
+    "name": "Creative Professionals",
+    "description": "Designers, writers, artists, and creative directors who value craft, inspiration, and aesthetic sensibility.",
+    "characteristics": {
+      "knowledge_level": "High creative literacy — understand design thinking, creative process, and aesthetic principles",
+      "expectations": "Visual examples, process insight, creative rationale, inspiration alongside information",
+      "priorities": "Is this beautiful? Is the thinking original? Does it respect the craft?"
+    },
+    "communication": {
+      "formality": "4/10 — professional but expressive, room for personality",
+      "jargon_tolerance": "6/10 — design and creative terms welcome, technical terms need translation",
+      "detail_level": "Moderate — enough to understand the thinking, not a specification document",
+      "evidence_preference": "Visual examples, case studies, process breakdowns, before/after comparisons"
+    },
+    "resonates": "Original thinking, beautiful presentation, respect for the creative process, 'show me, don't just tell me'",
+    "alienates": "Purely data-driven arguments, ignoring aesthetics, treating design as decoration, template thinking"
+  },
+  {
+    "id": "students-learners",
+    "name": "Students & Learners",
+    "description": "Students, career changers, and self-taught learners who value clear explanations, progressive disclosure, and supportive tone.",
+    "characteristics": {
+      "knowledge_level": "Building knowledge — assume basics may need reinforcement, don't assume prior exposure",
+      "expectations": "Step-by-step explanations, examples that build progressively, practice opportunities, clear success criteria",
+      "priorities": "Can I follow this? Will this help me learn? Am I making progress?"
+    },
+    "communication": {
+      "formality": "3/10 — warm, encouraging, peer-to-peer rather than teacher-to-student",
+      "jargon_tolerance": "2/10 — introduce terms gradually, always define on first use",
+      "detail_level": "High but structured — break complex topics into digestible chunks",
+      "evidence_preference": "Worked examples, analogies to familiar concepts, practice exercises, 'try this yourself' prompts"
+    },
+    "resonates": "Clear learning path, celebration of progress, mistakes normalised, 'here is how I learned this'",
+    "alienates": "Assumed knowledge, gatekeeping, dismissive tone, 'this is obvious' or 'simply do X'"
+  }
+]

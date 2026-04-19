@@ -51,6 +51,12 @@ Analyse the writing samples across these dimensions. Be specific — quote direc
 - 3-5 things they consistently never do (with evidence of absence)
 - Structures, tones, or approaches absent from all samples
 
+### 6. Language & Dialect
+- Primary language (English, French, etc.)
+- Dialect/variant (British English, American English, Australian English)
+- Evidence: spelling (colour/color, organise/organize), vocabulary (boot/trunk, flat/apartment), date formats, idioms
+- Is the dialect consistent throughout, or mixed?
+
 ## Output Format
 
 Produce the profile in this exact structure:
@@ -76,6 +82,11 @@ Produce the profile in this exact structure:
 - Closes with: [pattern]
 - Paragraphs: [length and rhythm]
 - Visual elements: [lists, bold, code, etc.]
+
+## Language
+- Primary: [language]
+- Dialect: [variant with evidence — e.g. "British English: colour, organise, whilst"]
+- Consistency: [consistent/mixed]
 
 ## Voice Markers
 1. [Most distinctive feature — with evidence quote]
